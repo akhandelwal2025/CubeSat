@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="da1e376e-02a2-4dc2-a582-296cd8d69788" name="localhost:6400" url="http:///">
+        <fileTransfer host="localhost" port="6400" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="6400" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

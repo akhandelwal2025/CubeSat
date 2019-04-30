@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="localhost:6400">
+    <serverData>
+      <paths name="localhost:6400">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/SPI_TO_UART" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
